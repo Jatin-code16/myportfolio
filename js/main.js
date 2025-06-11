@@ -275,6 +275,15 @@ document.addEventListener('DOMContentLoaded', function() {
     // Certificates Section
     const certificatesData = [
         {
+            title: "Microsoft Azure Fundamentals",
+            organization: "Microsoft",
+            date: "June 2025",
+            image: "img/certificates/Azure Fundamental.png",
+            credentialId: "74AC63A3A78667D2",
+            link: "https://learn.microsoft.com/api/credentials/share/en-us/JatinNaik-3276/74AC63A3A78667D2?sharingId",
+            skills: ["Microsoft Azure", "Azure Functions", "Cloud Computing", "Azure Storage", "Azure App Service", "Azure Virtual Machines", "Azure Networking", "Azure Security", "Azure Monitoring", "Azure Identity & Governance"]
+        },
+        {
             title: "Python (Basic)",
             organization: "HackerRank",
             date: "15 Feb 2025",
@@ -300,15 +309,6 @@ document.addEventListener('DOMContentLoaded', function() {
             credentialId: "af4a7daf-882b-462a-88d0-d98ba697d7dd",
             link: "https://learn.pwskills.com/certificate/af4a7daf-882b-462a-88d0-d98ba697d7dd",
             skills: ["Git", "GitHub"]
-        },
-        {
-            title: "Microsoft Azure Fundamentals",
-            organization: "Microsoft",
-            date: "June 2025",
-            image: "img/certificates/Azure Fundamental.png",
-            credentialId: "74AC63A3A78667D2",
-            link: "https://learn.microsoft.com/api/credentials/share/en-us/JatinNaik-3276/74AC63A3A78667D2?sharingId",
-            skills: ["Microsoft Azure", "Azure Functions", "Cloud Computing", "Azure Storage", "Azure App Service", "Azure Virtual Machines", "Azure Networking", "Azure Security", "Azure Monitoring", "Azure Identity & Governance"]
         }
     ];
 
