@@ -302,13 +302,13 @@ document.addEventListener('DOMContentLoaded', function() {
             skills: ["Git", "GitHub"]
         },
         {
-            title: "Computer Vision Expert",
-            organization: "DeepLearning.AI",
-            date: "May 2023",
-            image: "img/certificates/cv-deeplearning.png",
-            credentialId: "DL-CV-123456",
-            link: "https://deeplearning.ai/verification",
-            skills: ["Computer Vision", "OpenCV", "TensorFlow"]
+            title: "Microsoft Azure Fundamentals",
+            organization: "Microsoft",
+            date: "June 2025",
+            image: "img/certificates/Azure Fundamental.png",
+            credentialId: "74AC63A3A78667D2",
+            link: "https://learn.microsoft.com/api/credentials/share/en-us/JatinNaik-3276/74AC63A3A78667D2?sharingId",
+            skills: ["Microsoft Azure", "Azure Functions", "Cloud Computing", "Azure Storage", "Azure App Service", "Azure Virtual Machines", "Azure Networking", "Azure Security", "Azure Monitoring", "Azure Identity & Governance"]
         }
     ];
 
